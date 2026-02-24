@@ -82,5 +82,5 @@ Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TASKESER_MEKSELİNA&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TASKESER_MEKSELİNA&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taskeser_mekselina&theme=rose_pine&hide_border=true" height="160"/>
 </p>
