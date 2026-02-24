@@ -11,18 +11,20 @@
 ---
 
 ## 🔭 Şu An Üzerinde Çalıştıklarım
-  
-- 📱 Flutter ile mobil uygulama mimarisi  
-- 🐍 Python ile Veri Madenciliği ve Yapay Zeka  
+
+- 📱 Flutter ile ölçeklenebilir mobil uygulama geliştirme  
+- ⚙️ ASP.NET Core ile RESTful API ve AI destekli backend sistemler  
+- 📊 Web Mining & Sentiment Analysis projeleri  
+- 🐍 Python ile veri analizi ve makine öğrenmesi uygulamaları  
 
 ---
 
 ## 🌱 Öğrenme Hedeflerim
 
-- 🐳 İleri seviye Docker konteynerizasyonu  
-- ⚙️ ASP.NET Core ile kurumsal mimariler  
-- 📊 Büyük veri analizi (Kaggle projeleri)  
-
+- 🐳 Docker ile uygulama containerization ve deployment süreçleri  
+- 🏗️ Clean Architecture ve katmanlı yazılım mimarileri  
+- 📈 Büyük veri analizi ve gelişmiş veri görselleştirme  
+- 🤖 Yapay zeka modellerinin backend sistemlere entegrasyonu  
 ---
 
 ## 💻 Teknik Yetkinliklerim
@@ -45,5 +47,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TASKESER_MEKSELİNA&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taskesermekselina&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TASKESER_MEKSELİNA&theme=tokyonight&hide_border=true" height="150"/>
 </p>
