@@ -1,51 +1,83 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=220&section=header&text=Mekselina%20Taşkeser&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FADADD&height=230&section=header&text=Mekselina%20Taşkeser&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi</h3>
+<h1 align="center" style="color:#FF8DA1;">Merhaba 👋</h1>
+
+## 🚀 Hakkımda & Kariyer Yolculuğum
+
+Yönetim Bilişim Sistemleri öğrencisiyim.  
+Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
+Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=11998E&size=24&center=true&vCenter=true&width=600&pause=1200&lines=Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Mobil+ve+Backend+Projeler+Geliştiriyorum...;Veri+ile+Değer+Üretiyorum..." />
+  <a href="https://linkedin.com/in/MEKSELİNA_TAŞKESER">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:taskesermekselina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+# 🛠️ Teknoloji Yığınım (Tech Stack)
+
+<table align="center">
+<tr>
+<td align="center"><b>Diller</b></td>
+<td align="center"><b>Framework & Platform</b></td>
+<td align="center"><b>Veritabanı & Araçlar</b></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=csharp,python,dart,sql" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dotnet" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github" />
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ## 🔭 Şu An Üzerinde Çalıştıklarım
 
-- 📱 Flutter ile ölçeklenebilir mobil uygulama geliştirme  
-- ⚙️ ASP.NET Core ile RESTful API ve AI destekli backend sistemler  
+- 📱 Flutter ile ölçeklenebilir mobil uygulamalar  
+- ⚙️ ASP.NET Core ile RESTful API geliştirme  
 - 📊 Web Mining & Sentiment Analysis projeleri  
-- 🐍 Python ile veri analizi ve makine öğrenmesi uygulamaları  
+- 🐍 Python ile veri analizi uygulamaları  
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🌱 Öğrenme Hedeflerim
 
-- 🐳 Docker ile uygulama containerization ve deployment süreçleri  
-- 🏗️ Clean Architecture ve katmanlı yazılım mimarileri  
-- 📈 Büyük veri analizi ve gelişmiş veri görselleştirme  
-- 🤖 Yapay zeka modellerinin backend sistemlere entegrasyonu  
----
+- 🐳 Docker ile deployment süreçleri  
+- 🏗️ Clean Architecture prensipleri  
+- 📈 Büyük veri analizi ve veri görselleştirme  
+- 🤖 Yapay zeka modellerinin backend entegrasyonu  
 
-## 💻 Teknik Yetkinliklerim
-
-### 🚀 Programlama Dilleri
-
-<p>
-  <img src="https://skillicons.dev/icons?i=csharp,python,dart,sql" />
-</p>
-
-### 🛠️ Framework & Teknolojiler
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,unity,docker,git,github" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+# 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TASKESER_MEKSELİNA&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TASKESER_MEKSELİNA&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TASKESER_MEKSELİNA&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TASKESER_MEKSELİNA&theme=rose_pine&hide_border=true" height="160"/>
 </p>
