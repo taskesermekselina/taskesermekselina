@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center" style="color:#FF8DA1;">Merhaba 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=26&center=true&vCenter=true&width=700&pause=1200&lines=Ben+Mekselina+Taşkeser;Yönetim+Bilişim+Sistemleri+Öğrencisiyim;Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Mobil+ve+Backend+Alanında+Projeler+Üretiyorum..." />
+</p>
 
 ## 🚀 Hakkımda & Kariyer Yolculuğum
 
