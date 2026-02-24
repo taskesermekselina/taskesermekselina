@@ -5,7 +5,7 @@ Yönetim Bilişim Sistemleri Öğrencisi
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=23&center=true&vCenter=true&width=500&lines=Sürekli+Öğreniyorum;Kendimi+Geliştiriyorum;Üretiyorum;Backend+%26+Mobil+Projeler+Geliştiriyorum;Veri+Odaklı+Sistemler+Tasarlıyorum" />
+<img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=24&center=true&vCenter=true&width=600&pause=1000&lines=Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Kodluyor,+Analiz+Ediyor,+Üretiyorum..." />
 </p>
 
 ---
