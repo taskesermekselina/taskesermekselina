@@ -11,7 +11,7 @@ Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendi
 Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
 
 <p align="center">
-  <a href="https://linkedin.com/in/MEKSELİNA_TAŞKESER">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mekselina-ta%C5%9Fkeser-1a46b7257/">
     <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:taskesermekselina@gmail.com">
