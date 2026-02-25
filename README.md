@@ -2,16 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FADADD&height=230&section=header&text=Mekselina%20Taşkeser&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center" style="color:#FF8DA1;">Merhaba 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=26&center=true&vCenter=true&width=700&pause=1200&lines=Ben+Mekselina+Taşkeser;Yönetim+Bilişim+Sistemleri+Öğrencisiyim;Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Mobil+ve+Backend+Alanında+Projeler+Üretiyorum..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=26&center=true&vCenter=true&width=700&pause=1200&lines=MERHABA👋+Ben+Mekselina+Taşkeser;Yönetim+Bilişim+Sistemleri+Öğrencisiyim;Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Mobil+ve+Backend+Alanında+Projeler+Üretiyorum..." />
 </p>
 
 ## 🚀 Hakkımda & Kariyer Yolculuğum
 
-          Yönetim Bilişim Sistemleri öğrencisiyim.  
-          Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
-          Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
+   Yönetim Bilişim Sistemleri öğrencisiyim.  
+   Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
+   Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
 
 <p align="center">
   <a href="https://linkedin.com/in/mekselina-ta%C5%9Fkeser-1a46b7257/">
