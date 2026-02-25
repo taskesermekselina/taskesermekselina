@@ -9,9 +9,9 @@
 
 ## 🚀 Hakkımda & Kariyer Yolculuğum
 
-Yönetim Bilişim Sistemleri öğrencisiyim.  
-Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
-Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
+          Yönetim Bilişim Sistemleri öğrencisiyim.  
+          Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
+          Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
 
 <p align="center">
   <a href="https://linkedin.com/in/mekselina-ta%C5%9Fkeser-1a46b7257/">
