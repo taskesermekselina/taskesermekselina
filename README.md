@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=26&center=true&vCenter=true&width=700&pause=1200&lines=MERHABA👋+Ben+Mekselina+Taşkeser;Yönetim+Bilişim+Sistemleri+Öğrencisiyim;Sürekli+Öğreniyorum...;Her+Gün+Gelişiyorum...;Mobil+ve+Backend+Alanında+Projeler+Üretiyorum..." />
 </p>
 
-<p align="center"> ## 🚀 Hakkımda & Kariyer Yolculuğum
+ ## 🚀 Hakkımda & Kariyer Yolculuğum
 
   <p align="center"> Yönetim Bilişim Sistemleri öğrencisiyim.  </p>
   <p align="center"> Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  </p>
   <p align="center">  Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.</p>
- </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/mekselina-ta%C5%9Fkeser-1a46b7257/">
