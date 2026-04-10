@@ -8,9 +8,9 @@
 
 <p align="center"> ## 🚀 Hakkımda & Kariyer Yolculuğum
 
-   Yönetim Bilişim Sistemleri öğrencisiyim.  
-   Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  
-   Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.
+  <p align="center"> Yönetim Bilişim Sistemleri öğrencisiyim.  </p>
+  <p align="center"> Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  </p>
+  <p align="center">  Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.</p>
  </p>
 
 <p align="center">
