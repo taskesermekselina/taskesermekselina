@@ -7,10 +7,13 @@
 </p>
 
  ## 🚀 Hakkımda & Kariyer Yolculuğum
+ <table align="center">
 
   <p align="center"> Yönetim Bilişim Sistemleri öğrencisiyim.  </p>
   <p align="center"> Mobil uygulama geliştirme, backend sistemler ve veri analizi alanlarında kendimi geliştiriyorum.  </p>
   <p align="center">  Flutter ve ASP.NET Core ile projeler üretirken, veri madenciliği ve yapay zeka üzerine çalışmalar yapıyorum.</p>
+
+  </table>
 
 
 <p align="center">
